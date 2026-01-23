@@ -1,2 +1,2 @@
 # mais-ti
-esse repositório serve para testar os códigos em javascript (js).
+Esse repositório serve para estudar os códigos em javascript do programa MaisTI (js).
