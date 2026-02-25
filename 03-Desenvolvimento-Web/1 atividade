@@ -1,0 +1,27 @@
+<html>
+<head> <title>Primeiro CSS </title>
+<link rel="stylesheet"
+href="css/estilo-atividade.css">
+</head>
+<body>
+    <p id="ERRO1">Error 01: Código não compilou na linha 10.</p>
+<p id="PERIGO2">Warning 01: Código duplicado nas
+linhas 5-8 e 13-16.</p>
+<p id="ERRO2">Error 02: Tipos não compatíveis na
+linha 3.</p>
+<p id="ERRO3">Error 03: Tipo não definido.</p>
+<p id="Sucesso">Success 01: Compilado com sucesso.</p>
+<p id="PERIGO2">Warning 02: Código nunca utilizado nas linhas 20-30.</p>
+<p id="Sucesso2">Success 02: Compilado com sucesso.</p>
+
+</body>
+
+
+    CODIGO CSS SEPARADO
+    
+    #ERRO1{
+   color:#ff0000;
+}
+#ERRO2{
+     color:#830202;
+}
