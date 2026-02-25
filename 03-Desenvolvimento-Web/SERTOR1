@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head> <title>Primeiro CSS </title>
+<link rel="stylesheet"
+href="css/segundo-estilo.css">
+</head>
+<body>
+<p id="primeiroparagrafo">
+    Primeiro paragrafo
+</p>
+<p id="segundoparagrafo">
+    Segundo Paragrafo
+</p>
+<p id="terceiroparagrafo">
+    Terceiro Paragrafo
+</p>
+
+   </body>
+</html>
+
+
+CSS
+   
+  #primeiroparagrafo { color:#ff0000;
+  font-size:48px;
+  font-weight:bold;
+  background-color:#0000ff;
+  width:300px;}
+
+  #segundoparagrafo { color:#00ffdd;
+  font-size:48px;
+  font-weight:bold;
+  background-color:#cc00ff;
+  width:300px;}
+
+  #terceiroparagrafo { color:#ff5100;
+  font-size:48px;
+  font-weight:bold;
+  background-color:#c8ff00;
+  width:300px;}
