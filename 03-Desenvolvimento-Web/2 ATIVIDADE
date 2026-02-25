@@ -1,0 +1,27 @@
+<html>
+<head> <title>Primeiro CSS </title>
+<link rel="stylesheet"
+href="css/estilo3.css">
+</head>
+<body>
+    <div>
+ <p>parágrafo 1 tá no div de
+fora.</p>
+ <p>parágrafo 2 tá no div de
+fora</p>
+ <span>
+<p>parágrafo 3 tá no span
+interno.</p>
+</span>
+</div>
+<p>parágrafo 4 não tá no div!</p>
+<p>parágrafo 5 não tá no div!</p>
+</body>
+</html>
+
+ CODIGO CSS SEPARADO
+ 
+ div + p {
+ background-color: rgb(255, 0, 0);
+ color: white;
+}
